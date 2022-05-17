@@ -1,0 +1,9 @@
+.form-control{
+    border-radius: 5px;
+    width: 800px;
+    margin-left: 50px;
+}
+.ul{
+    border-right: 20px;
+    border: 2px solid bisque;
+}
